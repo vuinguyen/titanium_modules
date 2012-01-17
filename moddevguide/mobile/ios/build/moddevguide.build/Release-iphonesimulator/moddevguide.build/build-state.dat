@@ -1,0 +1,670 @@
+Tmoddevguide
+v3
+r1
+cCheck dependencies
+cProcessPCH /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch.gch TiModuledevguide_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModule.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModule.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModuleAssets.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModuleAssets.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideLifeCycleProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideLifeCycleProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideKrollDemoProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideKrollDemoProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideMethodsDemoProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideMethodsDemoProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideParametersDemoProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideParametersDemoProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoView.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoViewProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoViewProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLibtool "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/libTiModuledevguide.a" normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D93ED360000000000000110
+t1301540150
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004D93DEBB0000000000000AB3
+t1301536443
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004D93DEF900000000000004FE
+t1301536505
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D93E12E00000000000000C4
+t1301537070
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/AvailabilityMacros.h
+c000000004D4F7A2B0000000000007A5E
+t1297054251
+s31326
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libkern/OSAtomic.h
+c000000004D4F6E9A00000000000077C3
+t1297051290
+s30659
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/pthread.h
+c000000004D4F6E9A0000000000003BF6
+t1297051290
+s15350
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/_types.h
+c000000004D93E0AF0000000000001845
+t1301536943
+s6213
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h
+c000000004DD0AF080000000000000644
+t1305521928
+s1604
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+c000000004DD0AF080000000000003197
+t1305521928
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoView.h
+c000000004ECDCB4A0000000000000156
+t1322109770
+s342
+i"TiUIView.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoView.m
+c000000004ECDCB4A0000000000000D24
+t1322109770
+s3364
+i"TiModdevguideDemoView.h"
+i"TiUtils.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoViewProxy.h
+c000000004ECDCB4A0000000000000153
+t1322109770
+s339
+i"TiViewProxy.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoViewProxy.m
+c000000004ECDCB4A0000000000000D02
+t1322109770
+s3330
+i"TiModdevguideDemoViewProxy.h"
+i"TiUtils.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideKrollDemoProxy.h
+c000000004ECDCB4A00000000000002AF
+t1322109770
+s687
+i"TiModdevguideLifeCycleProxy.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideKrollDemoProxy.m
+c000000004ECDCB4A0000000000001A05
+t1322109770
+s6661
+i"TiModdevguideKrollDemoProxy.h"
+i"TiUtils.h"
+i<libkern/OSAtomic.h>
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideLifeCycleProxy.h
+c000000004ECDCB4A0000000000000157
+t1322109770
+s343
+i"TiProxy.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideLifeCycleProxy.m
+c000000004ECDCB4A0000000000000BAF
+t1322109770
+s2991
+i"TiModdevguideLifeCycleProxy.h"
+i"TiUtils.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideMethodsDemoProxy.h
+c000000004ECDCB4A0000000000000205
+t1322109770
+s517
+i"TiModdevguideLifeCycleProxy.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideMethodsDemoProxy.m
+c000000004ECDCB4A000000000000311B
+t1322109770
+s12571
+i"TiModdevguideMethodsDemoProxy.h"
+i"TiUtils.h"
+i"tiRect.h"
+i"tiPoint.h"
+i"tiRange.h"
+i"tiBlob.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModule.h
+c000000004ECDCB4A000000000000013A
+t1322109770
+s314
+i"TiModule.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModule.m
+c000000004ECDCB4A00000000000018D2
+t1322109770
+s6354
+i"TiModdevguideModule.h"
+i"TiBase.h"
+i"TiHost.h"
+i"TiUtils.h"
+i"TiBlob.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModuleAssets.h
+c000000004ECDCB4A00000000000000A1
+t1322109770
+s161
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModuleAssets.m
+c000000004ECDCB4A000000000000010A
+t1322109770
+s266
+i"TiModdevguideModuleAssets.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideParametersDemoProxy.h
+c000000004ECDCB4A000000000000020A
+t1322109770
+s522
+i"TiModdevguideLifeCycleProxy.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideParametersDemoProxy.m
+c000000004ECDCB4A00000000000007F6
+t1322109770
+s2038
+i"TiModdevguideParametersDemoProxy.h"
+i"TiUtils.h"
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/TiModuledevguide_Prefix.pch
+c000000004ECDCB4A000000000000003E
+t1322109770
+s62
+i<Foundation/Foundation.h>
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/libTiModuledevguide.a
+t2
+s0
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoView.o
+t2
+s0
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoViewProxy.o
+t2
+s0
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideKrollDemoProxy.o
+t2
+s0
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideLifeCycleProxy.o
+t2
+s0
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideMethodsDemoProxy.o
+t2
+s0
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModule.o
+t2
+s0
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModuleAssets.o
+t2
+s0
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideParametersDemoProxy.o
+t2
+s0
+
+N/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModuledevguide.LinkFileList
+c000000004ED7E07B000000000000067E
+t1322770555
+s1662
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/Bridge.h
+c000000004EC1CCE50000000000000268
+t1321323749
+s616
+i"TiProxy.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/KrollCallback.h
+c000000004EC1CCEE00000000000008CD
+t1321323758
+s2253
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"KrollContext.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/KrollContext.h
+c000000004EC1CCF500000000000013C3
+t1321323765
+s5059
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"TiBase.h"
+i"TiContextRefPrivate.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/KrollObject.h
+c000000004EC1CCD40000000000000D1B
+t1321323732
+s3355
+i<Foundation/Foundation.h>
+i"TiCore.h"
+i"TiBase.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/LayoutConstraint.h
+c000000004EC1CCF900000000000009F1
+t1321323769
+s2545
+i<UIKit/UIKit.h>
+i"TiDimension.h"
+i"TiUtils.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/ListenerEntry.h
+c000000004EC1CCE50000000000000269
+t1321323749
+s617
+i"TiModule.h"
+i"TiEvaluator.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiAnimation.h
+c000000004EC1CCDC0000000000000D5B
+t1321323740
+s3419
+i"TiProxy.h"
+i"TiPoint.h"
+i"TiColor.h"
+i"ListenerEntry.h"
+i"LayoutConstraint.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiBase.h
+c000000004EC1CCE2000000000000366B
+t1321323746
+s13931
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"defines.h"
+i"TiThreading.h"
+i"TiPublicAPI.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiBlob.h
+c000000004EC1CCCD00000000000005B5
+t1321323725
+s1461
+i"TiProxy.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiBuffer.h
+c000000004EC1CCEF00000000000003B9
+t1321323759
+s953
+i<Foundation/Foundation.h>
+i"TiProxy.h"
+i"TiBlob.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiColor.h
+c000000004EC1CCED00000000000002E6
+t1321323757
+s742
+i<UIKit/UIKit.h>
+i"TiProxy.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/Ti.h
+c000000004EC1CCCE000000000000071C
+t1321323726
+s1820
+i<TiCore/TiBase.h>
+i<TiCore/TiContextRef.h>
+i<TiCore/TiStringRef.h>
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/TiBase.h
+c000000004EC1CCD80000000000001A03
+t1321323736
+s6659
+i<stdbool.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/TiContextRef.h
+c000000004EC1CCDA00000000000014D8
+t1321323738
+s5336
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/TiContextRefPrivate.h
+c000000004EC1CCD90000000000000860
+t1321323737
+s2144
+i<TiCore/TiObjectRef.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/TiCore.h
+c000000004EC1CCCE000000000000069B
+t1321323726
+s1691
+i<TiCore/Ti.h>
+i<TiCore/TiStringRefCF.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/TiObjectRef.h
+c000000004EC1CCE8000000000000945D
+t1321323752
+s37981
+i<TiCore/TiBase.h>
+i<TiCore/TiValueRef.h>
+i<TiCore/WebKitAvailability.h>
+i<stdbool.h>
+i<stddef.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/TiStringRef.h
+c000000004EC1CCD7000000000000168A
+t1321323735
+s5770
+i<TiCore/TiValueRef.h>
+i<stdbool.h>
+i<stddef.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/TiStringRefCF.h
+c000000004EC1CCDA0000000000000A3B
+t1321323738
+s2619
+i"TiBase.h"
+i<CoreFoundation/CoreFoundation.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/TiValueRef.h
+c000000004EC1CCF80000000000002D42
+t1321323768
+s11586
+i<TiCore/TiBase.h>
+i<stdbool.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore/WebKitAvailability.h
+c000000004EC1CCF60000000000006BD6
+t1321323766
+s27606
+i<AvailabilityMacros.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiDimension.h
+c000000004EC1CCFB000000000000119C
+t1321323771
+s4508
+i"TiBase.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiEvaluator.h
+c000000004EC1CCEF00000000000004D5
+t1321323759
+s1237
+i<Foundation/Foundation.h>
+i"KrollContext.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiFile.h
+c000000004EC1CCD20000000000000368
+t1321323730
+s872
+i"TiProxy.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiGradient.h
+c000000004EC1CCF100000000000005FC
+t1321323761
+s1532
+i"TiProxy.h"
+i"TiDimension.h"
+i"TiPoint.h"
+i<CoreGraphics/CoreGraphics.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiHost.h
+c000000004EC1CCEE0000000000000503
+t1321323758
+s1283
+i"TiProxy.h"
+i"Bridge.h"
+i"TiEvaluator.h"
+i"TiStylesheet.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiModule.h
+c000000004EC1CCF30000000000000409
+t1321323763
+s1033
+i"TiUtils.h"
+i"TiEvaluator.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiPoint.h
+c000000004EC1CCEE00000000000002D3
+t1321323758
+s723
+i"TiProxy.h"
+i"TiDimension.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiProxy.h
+c000000004EC1CCDB00000000000014B2
+t1321323739
+s5298
+i"TiBase.h"
+i"TiEvaluator.h"
+i"KrollCallback.h"
+i"KrollObject.h"
+i<pthread.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiPublicAPI.h
+c000000004EC1CCF40000000000000A67
+t1321323764
+s2663
+i<Foundation/Foundation.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiRange.h
+c000000004EC1CCFB00000000000001B1
+t1321323771
+s433
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiRect.h
+c000000004EC1CCFB0000000000000213
+t1321323771
+s531
+i"TiProxy.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiStylesheet.h
+c000000004EC1CCD500000000000002CB
+t1321323733
+s715
+i"TiBase.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiThreading.h
+c000000004EC1CCD000000000000009CE
+t1321323728
+s2510
+i<Foundation/Foundation.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiUIView.h
+c000000004EC1CCE60000000000000F04
+t1321323750
+s3844
+i"TiProxy.h"
+i"TiAnimation.h"
+i"TiGradient.h"
+i"LayoutConstraint.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiUtils.h
+c000000004EC1CCD600000000000019DB
+t1321323734
+s6619
+i"TiColor.h"
+i"TiDimension.h"
+i"WebFont.h"
+i"TiFile.h"
+i"TiBuffer.h"
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiViewProxy.h
+c000000004EC1CCDC0000000000001DC8
+t1321323740
+s7624
+i"TiProxy.h"
+i"TiUIView.h"
+i<pthread.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/WebFont.h
+c000000004EC1CCCB0000000000000409
+t1321323723
+s1033
+i<UIKit/UIKit.h>
+
+N/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/defines.h
+c000000004EC1CCF800000000000008C7
+t1321323768
+s2247
+
+N/var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf83609fa1788b441^77f413fb1788b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoView.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s344463357.109075
+e344463357.342472
+r1
+xCompileC
+xbuild/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoView.o
+x/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoView.mf81c1cfd1788b441^ceaa57fd1788b441^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/vuinguyen/Documents/Titanium%20Studio%20Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoView.m0000000000000000^3269"CompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoView.o Classes/TiModdevguideDemoView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-generated-files.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-own-target-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-all-target-headers.hmap" -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-project-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources/i386" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources" "-F/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -include /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch -c "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoView.m" -o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoView.o"
+
+CCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoViewProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoViewProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s344463357.116789
+e344463357.340878
+r1
+xCompileC
+xbuild/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoViewProxy.o
+x/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoViewProxy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoViewProxy.m67281efd1788b441^d94357fd1788b441^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/vuinguyen/Documents/Titanium%20Studio%20Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoViewProxy.m0000000000000000^3289"CompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoViewProxy.o Classes/TiModdevguideDemoViewProxy.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-generated-files.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-own-target-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-all-target-headers.hmap" -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-project-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources/i386" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources" "-F/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -include /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch -c "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideDemoViewProxy.m" -o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideDemoViewProxy.o"
+
+CCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideKrollDemoProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideKrollDemoProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s344463356.656979
+e344463357.115508
+r1
+xCompileC
+xbuild/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideKrollDemoProxy.o
+x/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideKrollDemoProxy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Compile /Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideKrollDemoProxy.m6954a8fc1788b441^04ac1dfd1788b441^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/vuinguyen/Documents/Titanium%20Studio%20Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideKrollDemoProxy.m0000000000000000^3293"CompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideKrollDemoProxy.o Classes/TiModdevguideKrollDemoProxy.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-generated-files.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-own-target-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-all-target-headers.hmap" -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-project-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources/i386" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources" "-F/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -include /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch -c "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideKrollDemoProxy.m" -o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideKrollDemoProxy.o"
+
+CCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideLifeCycleProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideLifeCycleProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s344463356.656910
+e344463357.060001
+r1
+xCompileC
+xbuild/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideLifeCycleProxy.o
+x/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideLifeCycleProxy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Compile /Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideLifeCycleProxy.m7651a8fc1788b441^7e6f0ffd1788b441^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/vuinguyen/Documents/Titanium%20Studio%20Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideLifeCycleProxy.m0000000000000000^3293"CompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideLifeCycleProxy.o Classes/TiModdevguideLifeCycleProxy.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-generated-files.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-own-target-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-all-target-headers.hmap" -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-project-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources/i386" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources" "-F/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -include /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch -c "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideLifeCycleProxy.m" -o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideLifeCycleProxy.o"
+
+CCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideMethodsDemoProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideMethodsDemoProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s344463356.878340
+e344463357.205175
+r1
+xCompileC
+xbuild/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideMethodsDemoProxy.o
+x/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideMethodsDemoProxy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideMethodsDemoProxy.m9010e1fc1788b441^568334fd1788b441^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/vuinguyen/Documents/Titanium%20Studio%20Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideMethodsDemoProxy.m0000000000000000^3301"CompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideMethodsDemoProxy.o Classes/TiModdevguideMethodsDemoProxy.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-generated-files.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-own-target-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-all-target-headers.hmap" -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-project-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources/i386" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources" "-F/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -include /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch -c "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideMethodsDemoProxy.m" -o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideMethodsDemoProxy.o"
+
+CCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModule.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModule.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s344463356.656694
+e344463357.107694
+r1
+xCompileC
+xbuild/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModule.o
+x/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModule.mc93ea8fc1788b441^c79c1bfd1788b441^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/vuinguyen/Documents/Titanium%20Studio%20Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModule.m0000000000000000^3261"CompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModule.o Classes/TiModdevguideModule.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-generated-files.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-own-target-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-all-target-headers.hmap" -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-project-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources/i386" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources" "-F/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -include /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch -c "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModule.m" -o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModule.o"
+
+CCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModuleAssets.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModuleAssets.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s344463356.656907
+e344463356.877036
+r1
+xCompileC
+xbuild/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModuleAssets.o
+x/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModuleAssets.m0550a8fc1788b441^9f91e0fc1788b441^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/vuinguyen/Documents/Titanium%20Studio%20Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModuleAssets.m0000000000000000^3285"CompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModuleAssets.o Classes/TiModdevguideModuleAssets.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-generated-files.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-own-target-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-all-target-headers.hmap" -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-project-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources/i386" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources" "-F/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -include /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch -c "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideModuleAssets.m" -o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideModuleAssets.o"
+
+CCompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideParametersDemoProxy.o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideParametersDemoProxy.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s344463357.061357
+e344463357.269577
+r1
+xCompileC
+xbuild/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideParametersDemoProxy.o
+x/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideParametersDemoProxy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Compile /Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideParametersDemoProxy.mb5e20ffd1788b441^e70045fd1788b441^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/vuinguyen/Documents/Titanium%20Studio%20Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideParametersDemoProxy.m0000000000000000^3313"CompileC build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideParametersDemoProxy.o Classes/TiModdevguideParametersDemoProxy.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-generated-files.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-own-target-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-all-target-headers.hmap" -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-project-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources/i386" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources" "-F/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -include /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch -c "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/Classes/TiModdevguideParametersDemoProxy.m" -o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModdevguideParametersDemoProxy.o"
+
+CLibtool "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/libTiModuledevguide.a" normal i386
+s344463357.349322
+e344463357.371061
+r1
+xLibtool
+x/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/libTiModuledevguide.a
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Libtool build/Release-iphonesimulator/libTiModuledevguide.a normal i3862f8759fd1788b441^dffc5efd1788b441^---0#0#0#--1252"Libtool build/Release-iphonesimulator/libTiModuledevguide.a normal i386    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -filelist "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/Objects-normal/i386/TiModuledevguide.LinkFileList" -framework Foundation -o "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/libTiModuledevguide.a"
+
+CProcessPCH /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch.gch TiModuledevguide_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s344463355.088600
+e344463356.649027
+r1
+xProcessPCH
+x/var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch.gch
+xTiModuledevguide_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precompile TiModuledevguide_Prefix.pchb2d816fb1788b441^7425a6fc1788b441^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/vuinguyen/Documents/Titanium%20Studio%20Workspace/titanium_modules/moddevguide/mobile/ios/TiModuledevguide_Prefix.pch0000000000000000^3129"ProcessPCH /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch.gch TiModuledevguide_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Applications/android-sdk-mac_x86/tools:/Applications/android-sdk-mac_x86/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-generated-files.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-own-target-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-all-target-headers.hmap" -iquote "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/TiModuledevguide-project-headers.hmap" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include" "-I/Users/vuinguyen/Library/Application Support/Titanium/mobilesdk/osx/1.7.5/iphone/include/TiCore" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources/i386" "-I/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/moddevguide.build/Release-iphonesimulator/moddevguide.build/DerivedSources" "-F/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/build/Release-iphonesimulator" -c "/Users/vuinguyen/Documents/Titanium Studio Workspace/titanium_modules/moddevguide/mobile/ios/TiModuledevguide_Prefix.pch" -o /var/folders/jl/hr5jmpgj4qbg7wyby7934jzm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TiModuledevguide_Prefix-gcsruwlzzmlwaoarueajbopqipwl/TiModuledevguide_Prefix.pch.gch
+
